@@ -13,4 +13,5 @@ echo "Name is $name and Date is $(Date)"
 
 
 
+echo "The arguements in the file is $0 $1 $2"
 
