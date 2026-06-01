@@ -12,5 +12,5 @@ num1=0
 while [[num le $1]]
 do
 	echo "lol"
-	num = $num+!
+	num = $((num+1))
 done
